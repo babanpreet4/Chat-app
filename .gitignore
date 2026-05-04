@@ -1,2 +1,4 @@
 node_modulesnode_modules/
 .env
+node-modules/
+.env
